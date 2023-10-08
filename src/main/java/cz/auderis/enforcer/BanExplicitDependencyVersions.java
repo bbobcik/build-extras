@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * <b>banExplicitDependencyVersions</b><br/>
+ * <b>banExplicitDependencyVersions</b><br>
  * This rule checks whether there are any explicit dependency versions
  * in the project POM, specifically in {@code <dependencies>} block.
  * The goal is to have all versions defined in
